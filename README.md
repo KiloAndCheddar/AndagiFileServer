@@ -1,5 +1,5 @@
-# bluewing-cpp-server
-An example of Lacewing Blue (Bluewing) implementation of Lacewing Relay protocol as a server.  
+# andagi-cpp-server
+This is a modification of a Bluewing implementation of Lacewing Relay protocol as a server for user-created content.  
 Windows EXE and Unix executable using Visual Studio. Full C++ speed, with no trace of Clickteam Fusion.  
 Windows EXE is in x86 and x64. Unix is in x86 (i386), x64 (x86_64), ARMv7 and ARM64.
 
